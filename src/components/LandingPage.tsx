@@ -39,7 +39,7 @@ const LandingPage = () => {
       <nav className="relative z-20 p-6 flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <BookOpen className="h-8 w-8 text-primary" />
-          <span className="text-2xl font-bold text-white">KnowledgeX</span>
+          <span className="text-2xl font-bold text-white">SkillConnect</span>
         </div>
         <div className="space-x-4 flex items-center">
           <a href="#about" className="text-sm font-medium text-white/80 hover:text-white">About</a>
@@ -103,7 +103,7 @@ const LandingPage = () => {
         <section id="about" className="mt-16 px-6 pb-20">
           <div className="max-w-6xl mx-auto space-y-12">
             <div className="text-center">
-              <h2 className="text-3xl md:text-4xl font-bold text-white">What is KnowledgeX?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold text-white">What is SkillConnect?</h2>
               <p className="text-white/80 max-w-3xl mx-auto mt-4">A peer-to-peer learning marketplace where skills are exchanged instead of money. Scroll to see how it works.</p>
             </div>
 
